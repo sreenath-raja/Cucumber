@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.project.baseclass&apos; to &apos;com.gmail.org/src/main/java/com.gmail.pom&apos;&#x0D;&#x0A;- Original project: &apos;AdactinProject&apos;&#x0D;&#x0A;- Destination element: &apos;com.gmail.org/src/main/java/com.gmail.pom&apos;&#x0D;&#x0A;- Original element: &apos;AdactinProject/src/main/java/com.project.baseclass&apos;" description="Copy package" destination="=com.gmail.org/src\/main\/java&lt;com.gmail.pom" element1="/src\/main\/java&lt;com.project.baseclass" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1611995576086" version="1.0"/>
+</session>

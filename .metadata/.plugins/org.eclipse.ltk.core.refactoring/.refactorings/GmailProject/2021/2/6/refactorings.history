@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Data.xlsx&apos; to &apos;GmailProject/src/test/java/com.excel.org&apos;&#x0D;&#x0A;- Original project: &apos;GmailProject&apos;&#x0D;&#x0A;- Destination element: &apos;GmailProject/src/test/java/com.excel.org&apos;&#x0D;&#x0A;- Original element: &apos;Data.xlsx&apos;" description="Copy file" destination="/src\/test\/java&lt;com.excel.org" element1="Excel/Data.xlsx" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1612164529855" units="0" version="1.0"/>
+</session>
